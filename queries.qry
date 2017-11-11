@@ -1,0 +1,6 @@
+query getGrowerContracts {
+  description: "Allow grower to find what contracts they are on"
+  statement:
+    SELECT org.acme.shipping.perishable.Contract 
+      WHERE (grower == _$grower)
+}

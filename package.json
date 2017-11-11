@@ -1,0 +1,28 @@
+{
+  "engines": {
+    "composer": "^0.15.0 "
+  },
+  "name": "perishable-network",
+  "version": "0.0.1",
+  "description": "A perishable tracking network",
+  "scripts": {
+    "pretest": "npm run lint",
+    "lint": "eslint .",
+    "test": "mocha -t 0 --recursive"
+  },
+  "author": "zach",
+  "email": "zach@email.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "composer-admin": "latest",
+    "composer-client": "latest",
+    "composer-connector-embedded": "latest",
+    "browserfs": "latest",
+    "chai": "latest",
+    "eslint": "latest",
+    "istanbul": "latest",
+    "mkdirp": "latest",
+    "mocha": "latest",
+    "sinon": "latest"
+  }
+}
