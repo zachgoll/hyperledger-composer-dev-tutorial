@@ -1,6 +1,6 @@
 # Hyperledger Composer Development Tutorial (MAC OSX)
 
-Use these commands while following along with [Part 5 of the Hyperledger Development Series](https://www.youtube.com/playlist?list=PLYQSCk-qyTW3zBSNYmcQ62kv89kFaGydI)
+Use these commands while following along with [Part 5 of the Hyperledger Development Series](https://youtu.be/TbPsou9ok7Y)
 
 ## Prereqs (important!)
 
